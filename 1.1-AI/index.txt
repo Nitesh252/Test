@@ -1,0 +1,4 @@
+So our business Advanced plan is priced per user, per month. 
+ It does require a minimum of 3 user licenses. (User meaning, they need to upload files into Dropbox on regular basis). 
+ So you can either pay annually to receive a reduced price, or month to month. 
+ They have API's we can use
